@@ -1,0 +1,16 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+.spyderproject
+.spyderworkspace
+.ropeproject
+
+.DS_Store
+
+
+# Secrets — never commit
+.env
+
+# root node_modules
+node_modules
